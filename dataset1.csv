@@ -1,0 +1,517 @@
+no id,berat,tingg,tinggi (m),gender,berat ideal,kesimpulan,lari 
+1,42.24,160,1.6,Male,16.50,under weight,10
+2,43.4944,160,1.6,Male,16.99,under weight,10
+3,43.52,160,1.6,Male,17.00,normal,30
+4,58.624,160,1.6,Male,22.90,normal,30
+5,58.88,160,1.6,Male,23.00,over weight,60
+6,69.0944,160,1.6,Male,26.99,over weight,60
+7,69.12,160,1.6,Male,27.00,obesitas,90
+8,69.1456,160,1.6,Male,27.01,obesitas,90
+9,39.375,150,1.5,Female,17.50,under weight,10
+10,40.4775,150,1.5,Female,17.99,under weight,10
+11,40.5,150,1.5,Female,18.00,normal,30
+12,56.2275,150,1.5,Female,24.99,normal,30
+13,56.25,150,1.5,Female,25.00,over weight,60
+14,60.75,150,1.5,Female,27.00,over weight,60
+15,60.7725,150,1.5,Female,27.01,obesitas,90
+16,61.875,150,1.5,Female,27.50,obesitas,90
+17,96,174,1.74,Male,31.71,obesitas,90
+18,87,189,1.89,Male,24.36,over weight,60
+19,110,185,1.85,Female,32.14,obesitas,90
+20,104,195,1.95,Female,27.35,obesitas,90
+21,61,149,1.49,Male,27.48,obesitas,90
+22,104,189,1.89,Male,29.11,obesitas,90
+23,92,147,1.47,Male,42.57,obesitas,90
+24,111,154,1.54,Male,46.80,obesitas,90
+25,90,174,1.74,Male,29.73,obesitas,90
+26,103,169,1.69,Female,36.06,obesitas,90
+27,81,195,1.95,Male,21.30,normal,30
+28,80,159,1.59,Female,31.64,obesitas,90
+29,101,192,1.92,Female,27.40,obesitas,90
+30,51,155,1.55,Male,21.23,normal,30
+31,79,191,1.91,Male,21.66,normal,30
+32,107,153,1.53,Female,45.71,obesitas,90
+33,110,157,1.57,Female,44.63,obesitas,90
+34,129,140,1.4,Male,65.82,obesitas,90
+35,145,144,1.44,Male,69.93,obesitas,90
+36,139,172,1.72,Male,46.98,obesitas,90
+37,110,157,1.57,Male,44.63,obesitas,90
+38,149,153,1.53,Female,63.65,obesitas,90
+39,97,169,1.69,Female,33.96,obesitas,90
+40,139,185,1.85,Male,40.61,obesitas,90
+41,67,172,1.72,Female,22.65,normal,30
+42,64,151,1.51,Female,28.07,obesitas,90
+43,95,190,1.9,Male,26.32,over weight,60
+44,62,187,1.87,Male,17.73,normal,30
+45,159,163,1.63,Female,59.84,obesitas,90
+46,152,179,1.79,Male,47.44,obesitas,90
+47,121,153,1.53,Male,51.69,obesitas,90
+48,52,178,1.78,Male,16.41,under weight,0
+49,65,195,1.95,Female,17.09,normal,90
+50,131,160,1.6,Female,51.17,obesitas,90
+51,153,157,1.57,Female,62.07,obesitas,90
+52,132,189,1.89,Female,36.95,obesitas,90
+53,114,197,1.97,Female,29.37,obesitas,90
+54,80,144,1.44,Male,38.58,obesitas,90
+55,152,171,1.71,Female,51.98,obesitas,90
+56,81,185,1.85,Female,23.67,over weight,90
+57,120,175,1.75,Female,39.18,obesitas,90
+58,108,149,1.49,Female,48.65,obesitas,90
+59,56,157,1.57,Male,22.72,over weight,60
+60,118,161,1.61,Male,45.52,obesitas,90
+61,126,182,1.82,Female,38.04,obesitas,90
+62,76,185,1.85,Male,22.21,normal,30
+63,122,188,1.88,Female,34.52,obesitas,90
+64,111,181,1.81,Male,33.88,obesitas,90
+65,72,161,1.61,Male,27.78,obesitas,90
+66,152,140,1.4,Male,77.55,obesitas,90
+67,135,168,1.68,Female,47.83,obesitas,90
+68,54,176,1.76,Female,17.43,under weight,0
+69,110,163,1.63,Male,41.40,obesitas,90
+70,105,172,1.72,Male,35.49,obesitas,90
+71,116,196,1.96,Male,30.20,obesitas,90
+72,89,187,1.87,Female,25.45,over weight,60
+73,92,172,1.72,Male,31.10,obesitas,90
+74,127,178,1.78,Male,40.08,obesitas,90
+75,70,164,1.64,Female,26.03,over weight,60
+76,88,143,1.43,Male,43.03,obesitas,90
+77,54,191,1.91,Female,14.80,under weight,60
+78,143,141,1.41,Female,71.93,obesitas,90
+79,54,193,1.93,Male,14.50,under weight,0
+80,83,190,1.9,Male,22.99,normal,30
+81,135,175,1.75,Male,44.08,obesitas,90
+82,158,179,1.79,Female,49.31,obesitas,90
+83,96,172,1.72,Female,32.45,obesitas,90
+84,59,168,1.68,Female,20.90,normal,30
+85,82,164,1.64,Female,30.49,obesitas,90
+87,136,194,1.94,Female,36.14,obesitas,90
+88,51,153,1.53,Female,21.79,normal,30
+89,117,178,1.78,Male,36.93,obesitas,90
+90,80,141,1.41,Male,40.24,obesitas,90
+91,75,180,1.8,Male,23.15,over weight,60
+92,100,185,1.85,Female,29.22,obesitas,90
+93,154,197,1.97,Female,39.68,obesitas,90
+94,104,165,1.65,Male,38.20,obesitas,90
+95,90,168,1.68,Female,31.89,obesitas,90
+96,122,176,1.76,Female,39.39,obesitas,90
+97,51,181,1.81,Male,15.57,under weight,0
+98,75,164,1.64,Male,27.89,obesitas,90
+99,140,166,1.66,Female,50.81,obesitas,90
+100,105,190,1.9,Female,29.09,obesitas,90
+101,118,186,1.86,Male,34.11,obesitas,90
+102,123,168,1.68,Male,43.58,obesitas,90
+103,50,198,1.98,Male,12.75,under weight,0
+104,141,175,1.75,Female,46.04,obesitas,90
+105,117,145,1.45,Male,55.65,obesitas,90
+106,104,159,1.59,Female,41.14,obesitas,90
+107,140,185,1.85,Female,40.91,obesitas,90
+108,154,178,1.78,Female,48.60,obesitas,90
+109,96,183,1.83,Female,28.67,obesitas,90
+110,111,194,1.94,Female,29.49,obesitas,90
+111,61,177,1.77,Male,19.47,normal,90
+112,119,197,1.97,Male,30.66,obesitas,90
+113,156,170,1.7,Female,53.98,obesitas,90
+114,69,142,1.42,Male,34.22,obesitas,90
+115,139,160,1.6,Male,54.30,obesitas,90
+116,69,195,1.95,Male,18.15,normal,30
+117,50,190,1.9,Female,13.85,under weight,0
+118,156,199,1.99,Male,39.39,obesitas,90
+119,105,154,1.54,Male,44.27,obesitas,90
+120,155,161,1.61,Male,59.80,obesitas,90
+121,145,198,1.98,Female,36.99,obesitas,90
+122,140,192,1.92,Female,37.98,obesitas,90
+123,126,195,1.95,Male,33.14,obesitas,90
+124,160,166,1.66,Male,58.06,obesitas,90
+125,154,159,1.59,Male,60.92,obesitas,90
+126,106,181,1.81,Female,32.36,obesitas,90
+127,66,149,1.49,Male,29.73,obesitas,90
+128,70,150,1.5,Female,31.11,obesitas,90
+129,157,146,1.46,Female,73.65,obesitas,90
+130,135,190,1.9,Male,37.40,obesitas,90
+131,90,192,1.92,Female,24.41,obesitas,90
+132,96,177,1.77,Female,30.64,obesitas,90
+133,60,148,1.48,Male,27.39,obesitas,90
+134,57,165,1.65,Female,20.94,normal,30
+135,104,146,1.46,Female,48.79,obesitas,90
+136,108,144,1.44,Male,52.08,obesitas,90
+137,156,176,1.76,Female,50.36,obesitas,90
+138,87,168,1.68,Female,30.82,obesitas,90
+139,122,187,1.87,Male,34.89,obesitas,90
+140,138,187,1.87,Male,39.46,obesitas,90
+141,160,184,1.84,Female,47.26,obesitas,90
+142,149,158,1.58,Female,59.69,obesitas,90
+143,96,158,1.58,Male,38.46,obesitas,90
+144,115,194,1.94,Male,30.56,obesitas,90
+145,79,145,1.45,Female,37.57,obesitas,90
+146,151,182,1.82,Male,45.59,obesitas,90
+147,54,154,1.54,Male,22.77,normal,30
+148,139,168,1.68,Female,49.25,obesitas,90
+149,70,187,1.87,Female,20.02,normal,30
+150,153,158,1.58,Female,61.29,obesitas,90
+151,110,167,1.67,Female,39.44,obesitas,90
+152,155,171,1.71,Female,53.01,obesitas,90
+153,150,183,1.83,Female,44.79,obesitas,90
+154,156,190,1.9,Female,43.21,obesitas,90
+155,108,194,1.94,Male,28.70,obesitas,90
+156,147,171,1.71,Male,50.27,obesitas,90
+157,124,159,1.59,Male,49.05,obesitas,90
+158,54,169,1.69,Female,18.91,normal,30
+159,85,167,1.67,Female,30.48,obesitas,90
+160,149,180,1.8,Male,45.99,obesitas,90
+161,123,163,1.63,Male,46.29,obesitas,90
+162,79,140,1.4,Male,40.31,obesitas,90
+163,125,197,1.97,Male,32.21,obesitas,90
+164,106,194,1.94,Male,28.16,obesitas,90
+165,146,140,1.4,Female,74.49,obesitas,90
+166,98,195,1.95,Male,25.77,over weight,60
+167,115,168,1.68,Female,40.75,obesitas,90
+168,50,196,1.96,Female,13.02,under weight,0
+169,52,140,1.4,Male,26.53,over weight,60
+170,60,150,1.5,Female,26.67,over weight,60
+171,140,168,1.68,Female,49.60,obesitas,90
+172,111,155,1.55,Female,46.20,obesitas,90
+173,103,179,1.79,Female,32.15,obesitas,90
+174,84,182,1.82,Female,25.36,over weight,60
+175,160,168,1.68,Male,56.69,obesitas,90
+176,102,187,1.87,Female,29.17,obesitas,90
+177,105,181,1.81,Male,32.05,obesitas,90
+178,99,199,1.99,Male,25.00,over weight,60
+179,76,184,1.84,Female,22.45,normal,30
+180,101,192,1.92,Male,27.40,obesitas,90
+181,143,182,1.82,Female,43.17,obesitas,90
+182,111,172,1.72,Female,37.52,obesitas,90
+183,78,181,1.81,Male,23.81,over weight,60
+184,109,176,1.76,Male,35.19,obesitas,90
+185,106,156,1.56,Female,43.56,obesitas,90
+186,67,151,1.51,Female,29.38,obesitas,90
+187,80,188,1.88,Female,22.63,normal,30
+188,136,187,1.87,Male,38.89,obesitas,90
+189,138,174,1.74,Male,45.58,obesitas,90
+190,151,167,1.67,Male,54.14,obesitas,90
+191,131,196,1.96,Female,34.10,obesitas,90
+192,149,197,1.97,Male,38.39,obesitas,90
+193,119,185,1.85,Female,34.77,obesitas,90
+194,102,170,1.7,Female,35.29,obesitas,90
+195,94,181,1.81,Female,28.69,obesitas,90
+196,126,166,1.66,Female,45.73,obesitas,90
+197,100,188,1.88,Male,28.29,obesitas,90
+198,74,162,1.62,Female,28.20,obesitas,90
+199,117,177,1.77,Male,37.35,obesitas,90
+200,97,162,1.62,Male,36.96,obesitas,90
+201,73,180,1.8,Male,22.53,normal,30
+202,108,192,1.92,Female,29.30,obesitas,90
+203,80,165,1.65,Male,29.38,obesitas,90
+204,135,167,1.67,Female,48.41,obesitas,90
+205,84,182,1.82,Female,25.36,over weight,60
+206,134,161,1.61,Female,51.70,obesitas,90
+207,95,158,1.58,Male,38.05,obesitas,90
+208,85,141,1.41,Male,42.75,obesitas,90
+209,100,154,1.54,Male,42.17,obesitas,90
+210,105,165,1.65,Male,38.57,obesitas,90
+211,137,142,1.42,Female,67.94,obesitas,90
+212,94,141,1.41,Male,47.28,obesitas,90
+213,108,145,1.45,Male,51.37,obesitas,90
+214,74,157,1.57,Male,30.02,obesitas,90
+215,117,177,1.77,Female,37.35,obesitas,90
+216,144,166,1.66,Female,52.26,obesitas,90
+217,151,193,1.93,Male,40.54,obesitas,90
+218,57,184,1.84,Male,16.84,under weight,0
+219,93,179,1.79,Male,29.03,obesitas,90
+220,89,156,1.56,Female,36.57,obesitas,90
+221,104,182,1.82,Male,31.40,obesitas,90
+222,160,145,1.45,Male,76.10,obesitas,90
+223,87,150,1.5,Female,38.67,obesitas,90
+224,99,145,1.45,Male,47.09,obesitas,90
+225,122,196,1.96,Female,31.76,obesitas,90
+226,96,191,1.91,Male,26.32,over weight,60
+227,67,148,1.48,Female,30.59,obesitas,90
+228,84,150,1.5,Female,37.33,obesitas,90
+229,155,148,1.48,Male,70.76,obesitas,90
+230,146,153,1.53,Female,62.37,obesitas,90
+231,159,196,1.96,Female,41.39,obesitas,90
+232,52,185,1.85,Female,15.19,under weight,0
+233,131,171,1.71,Female,44.80,obesitas,90
+234,118,143,1.43,Female,57.70,obesitas,90
+235,86,142,1.42,Female,42.65,obesitas,90
+236,126,141,1.41,Female,63.38,obesitas,90
+237,109,159,1.59,Male,43.12,obesitas,90
+238,82,173,1.73,Female,27.40,obesitas,90
+239,138,183,1.83,Male,41.21,obesitas,90
+240,90,152,1.52,Female,38.95,obesitas,90
+241,140,178,1.78,Male,44.19,obesitas,90
+242,54,188,1.88,Male,15.28,under weight,0
+243,144,155,1.55,Female,59.94,obesitas,90
+244,70,166,1.66,Male,25.40,over weight,60
+245,123,188,1.88,Male,34.80,obesitas,90
+246,120,171,1.71,Female,41.04,obesitas,90
+247,130,179,1.79,Male,40.57,obesitas,90
+248,137,186,1.86,Female,39.60,obesitas,90
+249,78,153,1.53,Female,33.32,obesitas,90
+250,86,184,1.84,Female,25.40,over weight,60
+251,81,177,1.77,Female,25.85,over weight,60
+252,78,145,1.45,Male,37.10,obesitas,90
+253,81,170,1.7,Male,28.03,obesitas,90
+254,141,181,1.81,Male,43.04,obesitas,90
+255,155,165,1.65,Male,56.93,obesitas,90
+256,65,174,1.74,Female,21.47,normal,30
+257,110,146,1.46,Female,51.60,obesitas,90
+258,85,178,1.78,Male,26.83,over weight,60
+259,61,166,1.66,Male,22.14,normal,30
+260,62,191,1.91,Male,17.00,normal,30
+261,155,177,1.77,Female,49.47,obesitas,90
+262,50,183,1.83,Female,14.93,under weight,0
+263,114,151,1.51,Male,50.00,obesitas,90
+264,98,182,1.82,Male,29.59,obesitas,90
+265,159,142,1.42,Female,78.85,obesitas,90
+266,90,188,1.88,Female,25.46,over weight,60
+267,89,161,1.61,Male,34.34,obesitas,90
+268,70,153,1.53,Male,29.90,obesitas,90
+269,143,140,1.4,Male,72.96,obesitas,90
+270,141,169,1.69,Male,49.37,obesitas,90
+271,159,162,1.62,Female,60.59,obesitas,90
+272,147,183,1.83,Male,43.90,obesitas,90
+273,58,162,1.62,Female,22.10,normal,30
+274,109,172,1.72,Female,36.84,obesitas,90
+275,119,150,1.5,Female,52.89,obesitas,90
+276,145,169,1.69,Female,50.77,obesitas,90
+277,132,184,1.84,Female,38.99,obesitas,90
+278,104,159,1.59,Male,41.14,obesitas,90
+279,131,163,1.63,Male,49.31,obesitas,90
+280,137,156,1.56,Male,56.30,obesitas,90
+281,52,157,1.57,Female,21.10,normal,30
+282,84,147,1.47,Male,38.87,obesitas,90
+283,86,141,1.41,Male,43.26,obesitas,90
+284,139,173,1.73,Male,46.44,obesitas,90
+285,145,154,1.54,Male,61.14,obesitas,90
+286,148,168,1.68,Male,52.44,obesitas,90
+287,50,168,1.68,Male,17.72,normal,30
+288,130,145,1.45,Male,61.83,obesitas,90
+289,103,152,1.52,Male,44.58,obesitas,90
+290,121,187,1.87,Female,34.60,obesitas,90
+291,57,163,1.63,Female,21.45,normal,30
+292,83,178,1.78,Male,26.20,over weight,60
+293,94,187,1.87,Female,26.88,over weight,60
+294,114,179,1.79,Female,35.58,obesitas,90
+295,80,190,1.9,Male,22.16,normal,30
+296,75,172,1.72,Male,25.35,over weight,60
+297,57,188,1.88,Male,16.13,under weight,0
+298,65,193,1.93,Male,17.45,normal,30
+299,126,147,1.47,Female,58.31,obesitas,90
+300,94,147,1.47,Female,43.50,obesitas,90
+301,107,166,1.66,Male,38.83,obesitas,90
+302,139,192,1.92,Female,37.71,obesitas,90
+303,139,181,1.81,Male,42.43,obesitas,90
+304,74,150,1.5,Male,32.89,obesitas,90
+305,160,178,1.78,Male,50.50,obesitas,90
+306,52,156,1.56,Female,21.37,normal,30
+307,100,149,1.49,Male,45.04,obesitas,90
+308,74,156,1.56,Male,30.41,obesitas,90
+309,105,183,1.83,Male,31.35,obesitas,90
+310,68,162,1.62,Female,25.91,over weight,60
+311,83,165,1.65,Female,30.49,obesitas,90
+312,143,168,1.68,Female,50.67,obesitas,90
+313,156,160,1.6,Male,60.94,obesitas,90
+314,88,169,1.69,Female,30.81,obesitas,90
+315,76,140,1.4,Female,38.78,obesitas,90
+316,92,187,1.87,Female,26.31,over weight,60
+317,82,151,1.51,Male,35.96,obesitas,90
+318,140,186,1.86,Female,40.47,obesitas,90
+319,108,182,1.82,Male,32.60,obesitas,90
+320,81,188,1.88,Male,22.92,normal,30
+321,110,179,1.79,Male,34.33,obesitas,90
+322,126,156,1.56,Female,51.78,obesitas,90
+323,114,188,1.88,Male,32.25,obesitas,90
+324,153,183,1.83,Male,45.69,obesitas,90
+325,88,144,1.44,Male,42.44,obesitas,90
+326,69,196,1.96,Male,17.96,normal,30
+327,141,171,1.71,Male,48.22,obesitas,90
+328,147,171,1.71,Male,50.27,obesitas,90
+329,156,180,1.8,Female,48.15,obesitas,90
+330,146,191,1.91,Male,40.02,obesitas,90
+331,67,179,1.79,Female,20.91,normal,30
+332,60,180,1.8,Female,18.52,normal,30
+333,132,154,1.54,Female,55.66,obesitas,90
+334,99,188,1.88,Male,28.01,obesitas,90
+335,135,142,1.42,Male,66.95,obesitas,90
+336,95,170,1.7,Male,32.87,obesitas,90
+337,141,152,1.52,Male,61.03,obesitas,90
+338,118,190,1.9,Female,32.69,obesitas,90
+339,111,181,1.81,Female,33.88,obesitas,90
+340,104,153,1.53,Male,44.43,obesitas,90
+341,140,187,1.87,Male,40.04,obesitas,90
+342,66,144,1.44,Female,31.83,obesitas,90
+343,54,148,1.48,Female,24.65,normal,30
+344,92,199,1.99,Female,23.23,normal,30
+345,85,167,1.67,Female,30.48,obesitas,90
+346,71,164,1.64,Female,26.40,over weight,60
+347,102,185,1.85,Female,29.80,obesitas,90
+348,160,164,1.64,Female,59.49,obesitas,90
+349,71,142,1.42,Male,35.21,obesitas,90
+350,68,165,1.65,Male,24.98,normal,30
+351,62,172,1.72,Female,20.96,normal,30
+352,56,157,1.57,Female,22.72,normal,30
+353,57,155,1.55,Male,23.73,over weight,60
+354,153,167,1.67,Female,54.86,obesitas,90
+355,126,164,1.64,Female,46.85,obesitas,90
+356,125,189,1.89,Female,34.99,obesitas,90
+357,145,161,1.61,Female,55.94,obesitas,90
+358,71,155,1.55,Female,29.55,obesitas,90
+359,118,171,1.71,Female,40.35,obesitas,90
+360,92,154,1.54,Female,38.79,obesitas,90
+361,83,179,1.79,Male,25.90,over weight,60
+362,115,170,1.7,Male,39.79,obesitas,90
+363,106,184,1.84,Female,31.31,obesitas,90
+364,68,191,1.91,Female,18.64,normal,30
+365,58,162,1.62,Male,22.10,normal,30
+366,138,178,1.78,Male,43.56,obesitas,90
+367,60,157,1.57,Female,24.34,normal,30
+368,83,184,1.84,Male,24.52,over weight,60
+369,88,197,1.97,Male,22.68,normal,30
+370,51,160,1.6,Female,19.92,normal,30
+371,153,184,1.84,Male,45.19,obesitas,90
+372,50,190,1.9,Male,13.85,under weight,0
+373,90,174,1.74,Male,29.73,obesitas,90
+374,124,189,1.89,Female,34.71,obesitas,90
+375,143,186,1.86,Female,41.33,obesitas,90
+376,58,180,1.8,Female,17.90,under weight,0
+377,148,186,1.86,Female,42.78,obesitas,90
+378,61,193,1.93,Female,16.38,under weight,0
+379,103,161,1.61,Male,39.74,obesitas,90
+380,158,151,1.51,Female,69.30,obesitas,90
+381,147,195,1.95,Female,38.66,obesitas,90
+382,152,184,1.84,Female,44.90,obesitas,90
+383,80,141,1.41,Male,40.24,obesitas,90
+384,94,185,1.85,Female,27.47,obesitas,90
+385,127,186,1.86,Female,36.71,obesitas,90
+386,131,142,1.42,Male,64.97,obesitas,90
+387,67,147,1.47,Female,31.01,obesitas,90
+388,62,151,1.51,Male,27.19,obesitas,90
+389,124,160,1.6,Female,48.44,obesitas,90
+390,60,185,1.85,Male,17.53,normal,30
+391,63,163,1.63,Female,23.71,obesitas,90
+392,95,174,1.74,Male,31.38,obesitas,90
+393,144,150,1.5,Female,64.00,obesitas,90
+394,91,142,1.42,Male,45.13,obesitas,90
+395,142,178,1.78,Male,44.82,obesitas,90
+396,96,154,1.54,Female,40.48,obesitas,90
+397,87,176,1.76,Male,28.09,obesitas,90
+398,120,159,1.59,Male,47.47,obesitas,90
+399,62,191,1.91,Male,17.00,normal,30
+400,117,177,1.77,Male,37.35,obesitas,90
+401,154,151,1.51,Male,67.54,obesitas,90
+402,149,182,1.82,Female,44.98,obesitas,90
+403,72,197,1.97,Female,18.55,normal,30
+404,138,146,1.46,Male,64.74,obesitas,90
+405,83,160,1.6,Female,32.42,obesitas,90
+406,66,157,1.57,Female,26.78,over weight,60
+407,50,150,1.5,Female,22.22,normal,30
+408,58,167,1.67,Female,20.80,normal,30
+409,70,180,1.8,Female,21.60,normal,30
+410,76,183,1.83,Female,22.69,normal,30
+411,87,183,1.83,Female,25.98,over weight,60
+412,154,152,1.52,Female,66.66,obesitas,90
+413,71,164,1.64,Female,26.40,over weight,60
+414,96,187,1.87,Male,27.45,obesitas,90
+415,136,169,1.69,Male,47.62,obesitas,90
+416,61,149,1.49,Female,27.48,obesitas,90
+417,137,163,1.63,Male,51.56,obesitas,90
+418,104,195,1.95,Female,27.35,obesitas,90
+419,107,174,1.74,Male,35.34,obesitas,90
+420,70,182,1.82,Male,21.13,normal,30
+421,110,169,1.69,Male,38.51,obesitas,90
+422,130,193,1.93,Male,34.90,obesitas,90
+423,141,148,1.48,Male,64.37,obesitas,90
+424,68,186,1.86,Male,19.66,normal,30
+425,143,165,1.65,Male,52.53,obesitas,90
+426,123,146,1.46,Female,57.70,obesitas,90
+427,133,166,1.66,Female,48.27,obesitas,90
+428,56,179,1.79,Male,17.48,normal,30
+429,101,177,1.77,Female,32.24,obesitas,90
+430,154,181,1.81,Male,47.01,obesitas,90
+431,154,161,1.61,Female,59.41,obesitas,90
+432,103,157,1.57,Female,41.79,obesitas,90
+433,98,169,1.69,Female,34.31,obesitas,90
+434,114,152,1.52,Female,49.34,obesitas,90
+435,64,162,1.62,Female,24.39,normal,30
+436,130,162,1.62,Male,49.54,obesitas,90
+437,61,177,1.77,Female,19.47,normal,30
+438,61,195,1.95,Female,16.04,under weight,0
+439,146,140,1.4,Male,74.49,obesitas,90
+440,146,186,1.86,Female,42.20,obesitas,90
+441,107,178,1.78,Female,33.77,obesitas,90
+442,54,174,1.74,Male,17.84,normal,30
+443,59,180,1.8,Female,18.21,normal,30
+444,141,188,1.88,Male,39.89,obesitas,90
+445,130,187,1.87,Female,37.18,obesitas,90
+446,77,153,1.53,Female,32.89,obesitas,90
+447,95,165,1.65,Female,34.89,obesitas,90
+448,79,178,1.78,Female,24.93,normal,30
+449,154,163,1.63,Female,57.96,obesitas,90
+450,97,150,1.5,Female,43.11,obesitas,90
+451,127,179,1.79,Male,39.64,obesitas,90
+452,62,165,1.65,Male,22.77,normal,30
+453,158,168,1.68,Male,55.98,obesitas,90
+454,133,153,1.53,Female,56.82,obesitas,90
+455,157,184,1.84,Male,46.37,obesitas,90
+456,65,188,1.88,Male,18.39,normal,30
+457,153,166,1.66,Female,55.52,obesitas,90
+458,116,172,1.72,Female,39.21,obesitas,90
+459,73,182,1.82,Male,22.04,normal,30
+460,149,143,1.43,Male,72.86,obesitas,90
+461,146,152,1.52,Male,63.19,obesitas,90
+462,128,186,1.86,Female,37.00,obesitas,90
+463,140,159,1.59,Male,55.38,obesitas,90
+464,70,146,1.46,Male,32.84,obesitas,90
+465,121,176,1.76,Female,39.06,obesitas,90
+466,101,146,1.46,Female,47.38,obesitas,90
+467,145,159,1.59,Male,57.36,obesitas,90
+468,157,162,1.62,Male,59.82,obesitas,90
+469,90,172,1.72,Female,30.42,obesitas,90
+470,121,169,1.69,Female,42.37,obesitas,90
+471,50,182,1.82,Male,15.09,under weight,0
+472,79,183,1.83,Female,23.59,normal,30
+473,77,176,1.76,Male,24.86,normal,30
+474,128,188,1.88,Female,36.22,obesitas,90
+475,83,175,1.75,Female,27.10,obesitas,90
+476,81,154,1.54,Male,34.15,obesitas,90
+477,147,184,1.84,Female,43.42,obesitas,90
+478,123,179,1.79,Male,38.39,obesitas,90
+479,132,152,1.52,Male,57.13,obesitas,90
+480,56,179,1.79,Male,17.48,normal,30
+481,141,145,1.45,Female,67.06,obesitas,90
+482,80,181,1.81,Female,24.42,normal,30
+483,127,158,1.58,Male,50.87,obesitas,90
+484,99,188,1.88,Female,28.01,obesitas,90
+485,142,145,1.45,Male,67.54,obesitas,90
+486,115,161,1.61,Male,44.37,obesitas,90
+487,109,198,1.98,Male,27.80,obesitas,90
+488,142,147,1.47,Male,65.71,obesitas,90
+489,112,154,1.54,Male,47.23,obesitas,90
+490,65,178,1.78,Female,20.52,normal,30
+491,153,195,1.95,Male,40.24,obesitas,90
+492,79,167,1.67,Female,28.33,obesitas,90
+493,131,183,1.83,Male,39.12,obesitas,90
+494,142,164,1.64,Female,52.80,obesitas,90
+495,64,167,1.67,Male,22.95,normal,30
+496,55,151,1.51,Female,24.12,over weight,60
+497,107,147,1.47,Female,49.52,obesitas,90
+498,115,155,1.55,Female,47.87,obesitas,90
+499,108,172,1.72,Female,36.51,obesitas,90
+500,86,142,1.42,Female,42.65,obesitas,90
+501,85,146,1.46,Male,39.88,obesitas,90
+502,115,188,1.88,Female,32.54,obesitas,90
+503,111,173,1.73,Male,37.09,obesitas,90
+504,109,160,1.6,Female,42.58,obesitas,90
+505,80,187,1.87,Male,22.88,normal,30
+506,136,198,1.98,Male,34.69,obesitas,90
+507,150,179,1.79,Female,46.82,obesitas,90
+508,59,164,1.64,Female,21.94,normal,30
+509,147,146,1.46,Female,68.96,obesitas,90
+510,50,198,1.98,Female,12.75,under weight,0
+511,53,170,1.7,Female,18.34,normal,30
+512,98,152,1.52,Male,42.42,obesitas,90
+513,153,150,1.5,Female,68.00,obesitas,90
+514,121,184,1.84,Female,35.74,obesitas,90
+515,136,141,1.41,Female,68.41,obesitas,90
+516,95,150,1.5,Male,42.22,obesitas,90
+517,131,173,1.73,Male,43.77,obesitas,90
